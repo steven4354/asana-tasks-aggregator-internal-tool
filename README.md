@@ -1,9 +1,10 @@
 ## Running this repo
 
-**configs**
-place in our .env file
+1/
 
-**start**
+create the .env using the .env_example
+
+2/
 
 inside `/client`
 ```
