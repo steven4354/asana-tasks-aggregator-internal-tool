@@ -4,9 +4,17 @@
 place in our .env file
 
 **start**
-`npm install` in root folder
-`npm install` in /client 
-`npm start` in root 
+
+inside `/client`
+```
+npm install
+```
+
+in the root folder
+```
+npm install
+npm start
+```
 
 **uri**
 http://localhost:3000/asana
