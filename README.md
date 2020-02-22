@@ -1,12 +1,12 @@
 ## Running this repo
 
-** configs **
+**configs**
 place in our .env file
 
-** dependencies **
+**start**
 `npm install` in root folder
 `npm install` in /client 
 `npm start` in root 
 
-** uri **
+**uri**
 http://localhost:3000/asana
